@@ -33,7 +33,6 @@ try {
             break;
         }
 
-        //var_dump($post);die();
         $ut_posts[] = [
             'title' => $post->getTitle(),
             'link'  => $post->getLink(),
