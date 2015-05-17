@@ -22,7 +22,7 @@ $cache->addPlugin($plugin);
 $httpClient = \Zend\Feed\Reader\Reader::getHttpClient();
 $httpClient->setAdapter('Zend\Http\Client\Adapter\Curl');
 
-$ut_posts = [];
+$utPosts = [];
 try {
     $feed = \Zend\Feed\Reader\Reader::import('https://www.unleashed-technologies.com/blog/author/colin-odell/feed');
 
@@ -33,7 +33,7 @@ try {
             break;
         }
 
-        $ut_posts[] = [
+        $utPosts[] = [
             'title' => $post->getTitle(),
             'link'  => $post->getLink(),
             'date'  => $post->getDateCreated(),
