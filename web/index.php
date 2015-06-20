@@ -109,6 +109,23 @@
                 </aside>
                 <section class="latest section">
                     <div class="section-inner">
+                        <h2 class="heading">Books</h2>
+                        <div class="content">
+                            <div class="item row">
+                                <a class="col-md-4 col-sm-4 col-xs-12" href="https://leanpub.com/php7" title="PHP 7 Book" target="_blank">
+                                    <img class="img-responsive project-image" src="assets/img/projects/php7book.png" alt="PHP 7 Book">
+                                </a>
+                                <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                    <h3 class="title"><a href="https://leanpub.com/php7" target="_blank">What's New in PHP 7</a> <span class="label label-theme">php</span></h3>
+                                    <p>The PHP 7 release is just around the corner, bringing some much-desired changes and improvements to the language. However, many developers simply aren't aware of what's coming.  This book covers all of the new features coming in PHP 7, as well as breaking changes and "gotchas" to watch out for.  You'll learn how to take advantage of these changes and get started with PHP today.</p>
+                                    <p><a class="more-link" href="https://leanpub.com/php7" target="_blank"><i class="fa fa-external-link"></i> See book details</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="latest section">
+                    <div class="section-inner">
                         <h2 class="heading">Projects</h2>
                         <div class="content">
                             <div class="item row">
