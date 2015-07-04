@@ -93,7 +93,7 @@
                     <div class="section-inner">
                         <h2 class="heading">Recent Blog Posts</h2>
                         <div class="content">
-                            <?php foreach ($ut_posts as $up): ?>
+                            <?php foreach ($utPosts as $up): ?>
                                 <div class="item">
                                     <h3 class="title">
                                         <a rel="bookmark" href="<?php echo $up['link']; ?>">
