@@ -150,7 +150,7 @@
                                         <li><a href="https://play.google.com/store/apps/details?id=com.colinodell.sadtrombonewidget" target="_blank">Sad Trombone Widget</a></li>
                                         <li><a href="https://play.google.com/store/apps/details?id=com.colinodell.cricketswidget" target="_blank">Instant Crickets Widget</a></li>
                                     </ul>
-                                    <a class="btn btn-cta-secondary" href="" target="_blank"><i class="fa fa-android"></i> Download for Android</a>
+                                    <a class="btn btn-cta-secondary" href="https://play.google.com/store/apps/developer?id=Colin+O'Dell" target="_blank"><i class="fa fa-android"></i> Download for Android</a>
                                 </div>
                             </div>
                             <div class="item row">
