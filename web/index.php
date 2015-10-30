@@ -89,24 +89,6 @@
                         </div>
                     </div>
                 </section>
-                <aside class="blog section">
-                    <div class="section-inner">
-                        <h2 class="heading">Recent Blog Posts</h2>
-                        <div class="content">
-                            <?php foreach ($utPosts as $up): ?>
-                                <div class="item">
-                                    <h3 class="title">
-                                        <a rel="bookmark" href="<?php echo $up['link']; ?>">
-                                            <i class="fa fa-external-link"></i>
-                                            <?php echo $up['title']; ?>
-                                        </a>
-                                    </h3>
-                                </div>
-                            <?php endforeach; ?>
-                            <a class="btn btn-cta-primary view-more" href="http://www.unleashed-technologies.com/blog/author/colin-odell">View older posts</a>
-                        </div>
-                    </div>
-                </aside>
                 <section class="latest section">
                     <div class="section-inner">
                         <h2 class="heading">Books</h2>
@@ -228,6 +210,24 @@
                         </div>
                     </div>
                 </section>
+                <aside class="blog section">
+                    <div class="section-inner">
+                        <h2 class="heading">Recent Blog Posts</h2>
+                        <div class="content">
+                            <?php foreach ($utPosts as $up): ?>
+                                <div class="item">
+                                    <h3 class="title">
+                                        <a rel="bookmark" href="<?php echo $up['link']; ?>">
+                                            <i class="fa fa-external-link"></i>
+                                            <?php echo $up['title']; ?>
+                                        </a>
+                                    </h3>
+                                </div>
+                            <?php endforeach; ?>
+                            <a class="btn btn-cta-primary view-more" href="http://www.unleashed-technologies.com/blog/author/colin-odell">View older posts</a>
+                        </div>
+                    </div>
+                </aside>
                 <section class="experience section">
                     <div class="section-inner">
                         <h2 class="heading">Work Experience</h2>
