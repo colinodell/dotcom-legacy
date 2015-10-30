@@ -173,6 +173,43 @@
                             <div class="item">
                                 <div class="header-wrapper">
                                     <div class="pull-right">
+                                        <span class="label label-default"><time datetime="2015-10-30">Ocotber 30th, 2015</time></span>
+                                    </div>
+                                </div>
+                                <h3 class="title">
+                                    <a href="http://sanfrancisco2015.live.symfony.com/speakers#session-1628" target="_blank">
+                                        Debugging Effectively <small>SymfonyLive San Francisco 2015</small>
+                                    </a>
+                                </h3>
+                                <div class="desc">
+                                    <p>Software bugs are inevitable - it doesn't matter how experienced you are or how well you follow best-practices. Some bugs are especially difficult to track down, causing you to waste countless hours before throwing your hands up in defeat. It doesn't have to be this way though! The mental fatigue and wasted time can be avoided by implementing effective debugging strategies like: identifying & using the most-appropriate tool; taking a logical & objective approach; challenging assumptions; listening to variables; isolating the code path; rubber ducking; and reinforcing code with automated tests. Attendees will learn how to combine these techniques with the right mindset and attitude in order to debug their code effectively.</p>
+                                    <p>
+                                        <a href="http://www.slideshare.net/colinodell/debugging-effectively-symfonylive-san-francisco-2015" target="_blank"><i class="fa fa-slideshare"></i> Slides</a> |
+                                        <a href="http://joind.in/talk/view/16056" target="_blank"><i class="fa fa-comment"></i> Feedback</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="header-wrapper">
+                                    <div class="pull-right">
+                                        <span class="label label-default"><time datetime="2015-10-29">Ocotber 29th, 2015</time></span>
+                                    </div>
+                                </div>
+                                <h3 class="title">
+                                    <a href="http://www.slideshare.net/colinodell/leaguecommonmark-symfonylive-san-francisco-2015-lightning-talk" target="_blank">
+                                        league/commonmark Lightning Talk <small>SymfonyLive San Francisco 2015</small>
+                                    </a>
+                                </h3>
+                                <div class="desc">
+                                    <p>Learn about the CommonMark initiative and how you can implement a CommonMark parser into your PHP projects.</p>
+                                    <p>
+                                        <a href="http://www.slideshare.net/colinodell/leaguecommonmark-symfonylive-san-francisco-2015-lightning-talk" target="_blank"><i class="fa fa-slideshare"></i> Slides</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="header-wrapper">
+                                    <div class="pull-right">
                                         <span class="label label-default"><time datetime="2015-03-18">March 18th, 2015</time></span>
                                     </div>
                                 </div>
