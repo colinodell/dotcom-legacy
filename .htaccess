@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^colinodell.com [NC]
+RewriteRule ^(.*)$ http://www.colinodell.com/$1 [L,R=301]
+
+RedirectMatch ^/\+(.*)$ http://plus.google.com/107895682424085410306$1
